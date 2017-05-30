@@ -1,0 +1,10 @@
+.idea/*
+conf/*
+db/*
+hooks/*
+Desktop.ini
+format
+locks/*
+SWPInterpreter/.idea/*
+SWPInterpreter/project/*
+SWPInterpreter/target/*
