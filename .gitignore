@@ -5,6 +5,6 @@ hooks/*
 Desktop.ini
 format
 locks/*
-SWPInterpreter/.idea/*
-SWPInterpreter/project/*
-SWPInterpreter/target/*
+SimpleInterpreter/.idea/*
+SimpleInterpreter/project/*
+SimpleInterpreter/target/*
